@@ -10,8 +10,8 @@ Preparation
 
 Here what it looks in terminal
 
-> ![streaming](static/snapshot8.png)
+> ![streaming](static/snapshot12.png)
 
 And the live show on twitch
 
-> ![on twitch](static/snapshot9.png)
+> ![on twitch](static/snapshot13.png)
