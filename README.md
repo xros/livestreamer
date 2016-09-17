@@ -2,7 +2,7 @@ LiveStreamer
 ============
 Broadcasting your Linux desktop to Twitch
 
-     -- A live video/audio streamer client
+    A command-line live video/audio streamer
 
 Preparation
 -----------
